@@ -58,5 +58,6 @@ public class AwesomeDemoPageSteps {
         /* Validate : Chef */
         Assert.assertEquals(demoAspAwesomePage.getText(new By.ByXPath("(//table[@class='awe-table'])[2]//td[7]")),"Charles Duchemin");
 
+        demoAspAwesomePage.driverQuit();
     }
 }

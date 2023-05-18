@@ -38,6 +38,10 @@ public class BasePage {
         return driver;
     }
 
+    public void driverQuit(){
+        driver.quit();
+    }
+
     protected void loadUrl(String url){
         try {
             if(url.equals(null)) {
