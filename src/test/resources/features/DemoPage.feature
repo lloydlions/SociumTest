@@ -9,5 +9,5 @@ Feature:ASPNET Awesome Demo Page
       | Food       | French toast |
     Then the system will return all the values
       | id  | person | food         | country       | date      | meals  | chef         |
-      | 639 | Miguel | French toast | Stone Cutter  | 4/21/2013 | Rice   | Josh Baskin |
+      | 639 | Miguel | French toast | Stone Cutter  | 4/21/2013 | Rice   | Josh Baskin  |
 
