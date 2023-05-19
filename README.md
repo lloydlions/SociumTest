@@ -12,6 +12,6 @@ Log4J -> for logging of elements and actions, helps on debuging if the right ele
 Note.
 1. I found some issues while testing it first manually (kindly refer to the email I sent before). So what I did is filter the result for Person Justin and Food French toast, then validte the response.
 2. This is my personal framework which I commonly used for something like this. Also, I know log4j has vulnerabilities, and it is been 2years since I last touch Java and haven't found a better logger for now.
-3. Other dependencies are for cucumber reporting, which has some problems. and only the generate-report is working.
+3. Other dependencies are for cucumber reporting, which is still no working and only the generate-report is working.
 
 Thank You
