@@ -1,3 +1,8 @@
+Test Result :
+
+![image](https://github.com/lloydlions/SociumTest/assets/41092427/f61f6db0-997b-4998-b97e-76b8a1153939)
+
+
 Kindly download and build on your local.
 
 I use the following stacks : JDK17 Maven 3.9.2 IntelliJ IdeaC
